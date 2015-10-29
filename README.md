@@ -2,6 +2,10 @@
 
 A simple backgorund image fader created with JQuery, ready to use in every project.
 
+AUTHOR: AICHBAUER LUKAS
+
+email: rudolfson.junior@gmail.com
+
 ***
 
 ### Adding the css and js
